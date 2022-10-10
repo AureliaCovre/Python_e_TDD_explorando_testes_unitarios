@@ -67,3 +67,13 @@ Em resumo: dado determinado contexto, quando uma ação específica ocorrer, ent
 -- ---------------------------------------------------------------------------------------------
 ### TEST-DRIVEN DEVELOPMENT: 
 É uma metodologia para desenvolvimento de software utilizando testes e possui 3 etapas cíclicas: Construção de Testes, Implementação de Código e Refatoração;
+
+-- ---------------------------------------------------------------------------------------------
+### ARTIGOS
+https://www.alura.com.br/artigos/tipos-de-testes-principais-por-que-utiliza-los
+
+https://www.alura.com.br/artigos/por-que-e-o-que-e-possivel-testar
+
+https://www.alura.com.br/artigos/montando-cenarios-de-testes-com-o-pytest
+
+
